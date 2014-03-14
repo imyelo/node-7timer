@@ -1,0 +1,9 @@
+{
+  "name": "7timer",
+  "author": "yelo",
+  "version": "0.0.1",
+  "dependencies": {
+    "address-gps": "0.0.1",
+    "request": "~2.34.0"
+  }
+}
